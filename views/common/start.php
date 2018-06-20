@@ -66,7 +66,7 @@
 <div class="brandbar container">
     <div class="logo pull-left">
         <a href="http://www.uu.nl">
-            <img src="<?php echo base_url('/static/img/logo-uu.svg')?>">
+							    <img src="<?php echo base_url('/static/img/logo-uu.svg')?>">
         </a>
     </div>
     <div class="auth-action pull-right">
